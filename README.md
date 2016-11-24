@@ -1,1 +1,1 @@
-# MLPs_vs_SVMs_The_MNIST_Test
+# The_MNIST_Test
